@@ -1,4 +1,4 @@
-# Flutter HomeWork 8
+# Flutter Homework 8
 
 A todo app
 
